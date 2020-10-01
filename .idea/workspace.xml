@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04635330-c0fc-431c-b803-941e9f46b2ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hW7FgnkPcJvU0LzRhCBnUp5bvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/log" />
+      <recent name="$PROJECT_DIR$/faster_rcnn" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04635330-c0fc-431c-b803-941e9f46b2ac" name="Default Changelist" comment="" />
+      <created>1600114892228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600114892228</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Object Detection with Relation Network">
+      <created>1600289887916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600289887916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modify the relation module to fit FPN">
+      <created>1600801140099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600801140099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Readme">
+      <created>1601585219035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601585219035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Object Detection with Relation Network" />
+    <MESSAGE value="Modify the relation module to fit FPN" />
+    <MESSAGE value="Add Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2646" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600884581007">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2646" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1600884581007" />
+    <state x="361" y="120" width="1134" height="915" key="CommitChangelistDialog2" timestamp="1601585218889">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="361" y="120" width="1134" height="915" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601585218889" />
+    <state x="2281" y="95" width="1255" height="915" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1600289887841" />
+    <state x="776" y="329" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601479829365">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="776" y="329" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601479829365" />
+    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1601395145761" />
+    <state x="588" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601585226184">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="588" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601585226184" />
+    <state x="2508" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1600289895170" />
+    <state x="2338" y="342" width="837" height="621" key="find.popup" timestamp="1600598026654">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="342" width="837" height="621" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1600598026654" />
+    <state x="2604" y="291" width="837" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1600279842495" />
+    <state x="802" y="450" width="491" height="199" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601585880730">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="802" y="450" width="491" height="199" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601585880730" />
+  </component>
+</project>
